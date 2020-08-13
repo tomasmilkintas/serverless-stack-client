@@ -1,4 +1,5 @@
 export default {
+    MAX_ATTACHMENT_SIZE: 5000000,
     s3: {
         REGION: "eu-west-2",
         BUCKET: "notes17-prod-serverlessdeploymentbucket-jqm0x0m34ml9",
